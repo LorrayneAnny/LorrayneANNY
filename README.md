@@ -1,7 +1,7 @@
 ### Oii!Eu sou a Lorrayne Annyelly
 
 - 🖥️ Cursando Engenharia de Software
-- 📟 Atulmente estudando JavaScript
+- 📟 Atualmente estudando JavaScript
 - 💬 18 nos de idade
 -  ♀️ Pronouns: ela/dela
 
