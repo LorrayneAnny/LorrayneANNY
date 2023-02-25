@@ -2,7 +2,7 @@
 
 - 👩‍💻 Cursando Engenharia de Software
 - 💻 Atualmente estudando JavaScript
-- 💬 18 anos de idade
+- 💬 19 anos de idade
 - 🌎 Anápolis-GO
 - 📚 Em busca do conhecimento e sucesso...
 
