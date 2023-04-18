@@ -3,7 +3,7 @@
 - 👩‍💻 Cursando Engenharia de Software
 - 💬 20 anos de idade
 - 🌎 Anápolis-GO
-- 📚 Em busca do conhecimento e sucesso...
+- 📚 Em busca do conhecimento constante...
 
 <div>
   <a href="https://github.com/lorrayneanny">
