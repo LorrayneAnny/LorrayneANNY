@@ -1,8 +1,7 @@
 ### Oii!Eu sou a Lorrayne Annyelly
 
 - 👩‍💻 Cursando Engenharia de Software
-- 💻 Atualmente estudando JavaScript
-- 💬 19 anos de idade
+- 💬 20 anos de idade
 - 🌎 Anápolis-GO
 - 📚 Em busca do conhecimento e sucesso...
 
